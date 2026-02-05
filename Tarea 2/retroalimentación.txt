@@ -1,0 +1,2 @@
+- Muy buen trabajo, hiciste código relativamente corto y sencillo pero funcional. Me agrada ver que en el ejercicio de las edades no pusiste solo una función (max en este caso). Sino que te aventaste a hacer diferentes comparaciones.
+- Espero que continúes con este nivel, ya que además de comprender los conceptos, tienes un buen nivel en cuanto a lógica de programación y comprendes lo que programas, lo cual es bueno ya que logras combinar la teoría con lo práctico.
