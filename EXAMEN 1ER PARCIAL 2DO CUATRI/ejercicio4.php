@@ -1,0 +1,1 @@
+Haz un programa que declare un una funcion que valide si una palabra es un palíndromo.
