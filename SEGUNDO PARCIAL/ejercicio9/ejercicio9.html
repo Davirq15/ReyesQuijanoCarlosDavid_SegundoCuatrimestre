@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>9. Haz un programa que solicite una frase mediante un formulario y una palabra
+a buscar. Posteriormente, imprime (Muestra en pantalla):
+a. Cuántas veces aparece la palabra en la frase (Sin importar
+mayúsculas o minúsculas).
+b. Si la frase contiene o no la palabra buscada.
+c. La frase con todas las apariciones de las palabras resaltadas en
+negritas (etiqueta "strong" "/strong" para resaltar en negritas).
+Nota: Puedes utilizar las funciones substr_count(), stripos(), str_ireplace().</h1>
+
+    <form action="ejercicio9.php" method="GET">
+        Frase:<br>
+        <input type="text" name="frase" size="60" required>
+        <br><br>
+
+        Palabra a buscar:
+        <input type="text" name="palabra" required>
+        <br><br>
+
+        <button type="submit">Buscar</button>
+    </form>
+
+</body>
+</html>
